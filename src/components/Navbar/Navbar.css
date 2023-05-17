@@ -1,0 +1,27 @@
+.navbarbox{
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    background-color: rgba(0,0,0,0.6);
+}
+
+.userDashboard{
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+}
+
+.logOut{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    margin-left: auto;
+}
+
+p{
+    padding: 0.6em;
+    color: white;
+    background-color: black;
+    margin: 0.2em;
+    border-radius: 2px;
+}
